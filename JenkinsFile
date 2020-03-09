@@ -1,0 +1,6 @@
+simplePipeline{
+    artifactId = 'SpringBootJenkinsFIle'
+    groupId = 'com.example'
+    projectBase = 'SpringBootJenkinsFIle'
+    uploadToNexus = true
+}
